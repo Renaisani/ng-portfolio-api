@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fjRQBXfySpN+oDs+XqeiGYfK6VnrlYx/2D5F4sbB1YU=",
+  "Source": "TestNETCoreApp-API",
+  "BasePath": "_content/TestNETCoreApp-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
